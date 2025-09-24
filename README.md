@@ -52,12 +52,14 @@ git clone https://github.com/22A31A42E5/Expense-Tracker.git
 
 6. Delete expenses by clicking the red “Delete” button.
 
+---
+
 🚀 Future Enhancements
 
-User authentication & cloud storage
+- User authentication & cloud storage
 
-Export expenses to CSV or PDF
+- Export expenses to CSV or PDF
 
-Monthly/weekly budgeting & notifications
+- Monthly/weekly budgeting & notifications
 
-Dark mode toggle
+- Dark mode toggle

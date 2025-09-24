@@ -1,6 +1,6 @@
-# 💸 Sailaja Budget Buddy – Expense Tracker
+# 💸 Expense Tracker
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript) 
 
 **Track your expenses, manage budgets, and visualize spending trends** with this modern, responsive web app.
 
